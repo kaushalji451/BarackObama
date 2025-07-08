@@ -20,7 +20,7 @@ const Carousel = () => {
         <SwiperSlide>
           <div className="h-[70vh] w-full">
             <img
-              src="/src/assets/cursole1.png"
+              src="https://res.cloudinary.com/dpbpu5b0v/image/upload/v1751994925/Screenshot_2025-07-04_224004_cq8qmp.png"
               alt="slide 1"
               className="h-full w-full object-cover rounded-3xl"
             />
@@ -30,7 +30,7 @@ const Carousel = () => {
         <SwiperSlide>
           <div className="h-[70vh] w-full">
             <img
-              src="/src/assets/cursole2.png"
+              src="https://res.cloudinary.com/dpbpu5b0v/image/upload/v1751994893/Screenshot_2025-07-04_223851_enjnie.png"
               alt="slide 2"
               className="h-full w-full object-cover rounded-3xl"
             />
@@ -40,7 +40,7 @@ const Carousel = () => {
         <SwiperSlide>
           <div className="h-[70vh] w-full">
             <img
-              src="/src/assets/cursole3.png"
+              src="https://res.cloudinary.com/dpbpu5b0v/image/upload/v1751994906/Screenshot_2025-07-04_223924_sj2oyz.png"
               alt="slide 3"
               className="h-full w-full object-cover rounded-3xl"
             />

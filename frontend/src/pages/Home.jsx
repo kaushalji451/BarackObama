@@ -40,7 +40,7 @@ const Home = () => {
         )}
 
         {/* Welcome Section */}
-        <div className="h-screen bg-[url('/src/assets/obama-bg2.png')] bg-no-repeat bg-center sm:bg-[length:110%_110%] md:bg-[length:120%_120%] lg:bg-[length:130%_130%] xl:bg-[length:140%_140%]">
+        <div className="h-screen bg-[url('https://res.cloudinary.com/dpbpu5b0v/image/upload/v1751994578/Screenshot_2025-07-04_203835_vu2q4a.png')] bg-no-repeat bg-center sm:bg-[length:110%_110%] md:bg-[length:120%_120%] lg:bg-[length:130%_130%] xl:bg-[length:140%_140%]">
           <motion.div
             className='flex h-full justify-center items-center'
             initial={{ opacity: 0, y: 50 }}

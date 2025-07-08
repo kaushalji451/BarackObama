@@ -6,9 +6,13 @@ import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import categories from '../components/Images';
+import SEO from "../components/SEO"
 const Gallery = () => {
    
     return (
+      <>
+        <SEO title="Home | Barack Obama" description="Welcome to the official Obama Foundation homepage." />
+      
         <div className="min-h-screen bg-slate-800 text-white py-10 px-4 md:px-8">
             <motion.h2
                 className="text-4xl font-bold mb-10 text-center"
@@ -59,6 +63,7 @@ const Gallery = () => {
                 </motion.div>
             ))}
         </div>
+        </>
     );
 };
 

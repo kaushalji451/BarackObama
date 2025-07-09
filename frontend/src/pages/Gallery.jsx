@@ -11,7 +11,7 @@ const Gallery = () => {
    
     return (
       <>
-        <SEO title="Home | Barack Obama" description="Welcome to the official Obama Foundation homepage." />
+        <SEO title="Gallery | Barack Obama" description="Welcome to the official Obama Foundation gallerypage." />
       
         <div className="min-h-screen bg-slate-800 text-white py-10 px-4 md:px-8">
             <motion.h2
